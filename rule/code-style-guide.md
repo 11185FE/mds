@@ -1,6 +1,6 @@
-# Code Style Guide
-date: 2016-07-11 08:30:42
-tags: rule
+# Code Style Guide  
+date: 2016-07-11 08:30:42  
+tags: rule  
 
 By czl
 

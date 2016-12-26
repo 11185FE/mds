@@ -1,6 +1,6 @@
-# Promise - 告别无尽回调
-date: 2016-07-25 19:01:59
-tags: JavaScript ES2015
+# Promise - 告别无尽回调  
+date: 2016-07-25 19:01:59  
+tags: JavaScript,ES2015  
 
 By gxh
 

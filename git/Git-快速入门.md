@@ -1,6 +1,6 @@
-#Git快速入门
-date: 2016-08-12 
-tags: Git
+#Git快速入门  
+date: 2016-08-12   
+tags: Git  
 
 By lxl
 

@@ -1,6 +1,6 @@
-# ES6 - 高阶函数
-date: 2016-07-27 00:27:01
-tags: JavaScript ES2015 函数式编程
+# ES6 - 高阶函数  
+date: 2016-07-27 00:27:01  
+tags: JavaScript,ES2015,函数式编程  
 
 By gxh
 
