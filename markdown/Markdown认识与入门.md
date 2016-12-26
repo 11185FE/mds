@@ -1,8 +1,6 @@
----
-title: Markdown认识与入门
+# Markdown认识与入门
 date: 2016-08-17 18:26:31
-tags:
----
+tags: Markdown
 
 by zy
 
@@ -48,7 +46,7 @@ by zy
 	H3:### Heading     
 	H4:#### Heading   
 	H5:##### Heading    
-	H6:###### Heading 
+	H6:###### Heading
 ```
 
 ### 文本样式

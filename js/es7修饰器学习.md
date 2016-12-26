@@ -1,7 +1,6 @@
----
-title: ES7 - 修饰器(Decorator)
+# ES7 - 修饰器(Decorator)
 date: 2016-07-28 09:28:25
-tags: [JavaScript,ES2015, ES2016]
+tags: JavaScript ES2015 ES2016
 ---
 
 By gxh

@@ -1,8 +1,6 @@
----
-title: Sublime Text3 插件推荐
+# Sublime Text3 插件推荐
 date: 2016-08-17 16:43:10
-tags: [tools]
----
+tags: tools
 
 By lxl
 
@@ -51,7 +49,7 @@ import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.
 }
 `````
 - markdown Editing：`markdown` 语法高亮
-- OmnimarkupPreviwer：在浏览器上预览效果，快捷键为 `ctrl + alt + o` 
+- OmnimarkupPreviwer：在浏览器上预览效果，快捷键为 `ctrl + alt + o`
 - DocBlockr：JS等代码的注释插件 [DocBlockr](https://github.com/spadgos/sublime-jsdocs)，输入 `/**`，再按 `tab` 即可触发，`CSS`文件不能触发
 
 ## 结束语

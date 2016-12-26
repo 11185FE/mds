@@ -1,9 +1,6 @@
----
-title: change img to 8bit
+# change img to 8bit
 date: 2016-07-28 16:46:34
-tags: [JavaScript]
----
-
+tags: JavaScript
 
 # 8Bit
 

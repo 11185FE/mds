@@ -1,8 +1,6 @@
----
-title: Udacity Git Commit Message 编写风格指南
+# Udacity Git Commit Message 编写风格指南
 date: 2016-07-11 10:17:18
-tags: [rule]
----
+tags: rule
 
 By gxh
 

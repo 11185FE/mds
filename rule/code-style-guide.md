@@ -1,8 +1,6 @@
----
-title: Code Style Guide
+# Code Style Guide
 date: 2016-07-11 08:30:42
-tags: [rule]
----
+tags: rule
 
 By czl
 

@@ -1,8 +1,6 @@
----
-title: Git快速入门
-date: 2016-08-12 15:33:45
-tags: [Git]
----
+#Git快速入门
+date: 2016-08-12 
+tags: Git
 
 By lxl
 
@@ -28,7 +26,7 @@ $ git config --global user.name "yourName" # yourName是你自己的名字，可
 $ git config --global user.email "email@example.com"  
 `````
 - 创建 SSH key，因为 Git 仓库 和 Github 仓库之间的传输时通过 SSH 加密的，不能什么人都往自己的远程仓库上添加修改代码不是嘛。所以， Github 上需要保存你电脑生成的 SSH key，那么跟着GitHub上的教程 [Generating an SSH key](https://help.github.com/articles/generating-an-ssh-key/) 走就行了
-- 在上面的步骤下有了自己的 Repository上，将 Github上的远程仓库（remote repo）clone（克隆）到本地 ，用下来的命令 *git clone [git address]*，[git address]换成你在第2步创建的仓库（repo）地址 
+- 在上面的步骤下有了自己的 Repository上，将 Github上的远程仓库（remote repo）clone（克隆）到本地 ，用下来的命令 *git clone [git address]*，[git address]换成你在第2步创建的仓库（repo）地址
 ``````
 $ git clone [Git address]
 ``````
@@ -42,7 +40,7 @@ $ git push
 
 
 ## 详细教程
-- [廖雪峰的Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001373962845513aefd77a99f4145f0a2c7a7ca057e7570000) 
+- [廖雪峰的Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001373962845513aefd77a99f4145f0a2c7a7ca057e7570000)
 <span style="color:red;">强烈建议跟着廖老师的教程学Git，简单易懂，看完就不用再找教程、博客了</span>
 - [阮一峰的常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 - [大神写的‘我的Git笔记’](http://yanhaijing.com/git/2014/11/01/my-git-note/)

@@ -1,14 +1,12 @@
----
-title: Gulp 实战
+# Gulp 实战
 date: 2016-08-19 16:18:26
-tags: [tools]
----
+tags: tools
 
 By lxl
 
 ------
 
-> `Gulp` 入门教程 + 实战，主要说明目前我们前端组用的 `Gulpfile.js`里面所包含的插件 
+> `Gulp` 入门教程 + 实战，主要说明目前我们前端组用的 `Gulpfile.js`里面所包含的插件
 
 ------
 
@@ -59,7 +57,7 @@ var httpProxy = require('http-proxy'),
 
 var paths = {
     base: './', // 为当前目录
-    tpl: ['tpl/*.*'], // *.* 匹配 任何名字的任何文件 
+    tpl: ['tpl/*.*'], // *.* 匹配 任何名字的任何文件
     html: ['./*.html'], // ./*.html 匹配当前目录下的 html文件
     css: ['css/**'],   // ** 任何文件/文件夹
     less: ['less/**', '!less/base*', '!less/lesshat*', '!less/normalize*', '!less/common/**', '!less/animate*', '!less/common'],  
@@ -100,7 +98,7 @@ gulp.task('html', function(){
                 indent: true,   //是否缩进
             }),
             gulp.dest(paths.base),
-            browserSync.stream({ once: true }), //限制每个 stream 只 重载（reload）一次 
+            browserSync.stream({ once: true }), //限制每个 stream 只 重载（reload）一次
         ]);
     combined.on('error', console.error.bind(console));
     return combined;

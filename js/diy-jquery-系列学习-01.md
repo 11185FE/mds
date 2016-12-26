@@ -1,8 +1,6 @@
----
-title: DIY jQuery 系列学习 -- 01
+#  DIY jQuery 系列学习 -- 01
 date: 2016-08-25 14:23:55
-tags: [jQuery]
----
+tags: jQuery
 
 By gxh
 
