@@ -4,72 +4,19 @@ tags: rule
 
 By czl
 
-
-## html
-
-```html
-<sample-shabee id="aB" class="a-b"></sample-shabee>
+## 1 编程规约
+### 1.1 HTML规范
+标签：使用BEM命名方式。  
+id：使用小驼峰命名。  
+class：使用BEM命名方式。  
+```HTML
+<slider-page id="aB" class="a-b"></slider-page>
 ```
+### 1.2 CSS规范
 
-## js
-```javascript
-//vars, objects, functions, instances.
-var thisIsMyVar = "";
-const thisIsMyObject = {};
-const sampleShabee = new SampleShabee();
-function thisIsMyFunction() {}
+### 1.3 JS规范
 
-//Constant names
-const CONSTANT_CASE = 233;
-
-//constructors, Enum, classes, singleton,compounent.
-const StaticClass = {}
-class SampleShabee {}
-function SampleShabee(){};SampleShabee.protoype={}
-
-```
-
-
-## css
-```less
-//Do not use ID selectors
-.sample-shabee
-
-//OOCSS and BEM除外
-```
-
-
-
-## files
-
-```javascript
-
-//build
-小写
-
-//项目根目录
-sample-shabee
-
-//images
-sample-shabee.jpg
-sample-shabee.png
-sample-shabee.gif
-sample-shabee.svg
-
-
-//其他仅选用一种
-//ver1
-//所有文件都用a-b
-sample-shabee.html
-shabee.js
-sample-shabee.js
-sample-shabee.css
-
-//ver2
-//命名方式和模块export返回的默认内容一致
-thisIsMyObject.js
-SampleShabbeeCompounent.js
-SampleShabee.js
-CONSTANT_CASE.js
-```
-
+## 2 工程规范
+### 2.1 文件命名规范
+### 2.2 文件必要信息
+### 2.3 代码提交规范
