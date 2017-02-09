@@ -71,5 +71,7 @@ thisIsMyObject.js
 SampleShabbeeCompounent.js
 SampleShabee.js
 CONSTANT_CASE.js
+//禁止无意义变量
+var var1 = 1;
 ```
 
